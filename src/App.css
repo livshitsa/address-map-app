@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+
+.App-header {
+  width: 30%;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #f8f9fa;
+}
+
+.App-header input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.App-header button {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.map-container {
+  width: 70%;
+  height: 100%;
+}
